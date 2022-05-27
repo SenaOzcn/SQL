@@ -16,7 +16,7 @@ SQL, verileri toplamayı ve istatistikleri hesaplamayı kolaylaştırır. 1920 i
 
 SQL, dünya çapında, veri odaklı şirketler tarafından kullanılan standart veri işleme dilidir. Başlamak için en iyi yer temel bilgilerdir, bu yüzden şimdi tam olarak neyle uğraştığımızı bulmak için SQL adındaki her harfin ne anlama geldiğine bakalım!
 
-## S Yapılandırma İçin
+## S: Yapılandırma İçin
 
 SQL, tablolar olarak yapılandırılmış verileri çıkarmak ve güncellemek için kullanılan bir dildir. Bu tür veriler, muhasebe verilerini içeren Excel elektronik tabloları veya Google BigQuery'deki nüfus sayımı istatistikleri gibi çeşitli uygulama alanlarında görünür. Başka bir örnek, İlişkisel Veritabanı Yönetim Sistemi(RDBMS) olarak bilinen tabloları tutmak ve bunlara erişmek için özel bir yazılım sistemi kullanan bir çevrimiçi mağazadır. Bunlar, mallar, siparişler ve müşteriler hakkındaki bilgileri işlemeye yardımcı olabilir.
 
@@ -28,7 +28,7 @@ Tablolar satırlar ve sütunlar içerir . Her satır, bir dizi özellik veya nit
 
 Veriler genellikle veritabanı olarak bilinen bir dizi tablo halinde düzenlenir . Daha sonra bu tablolara bireysel adlarını kullanarak erişmek mümkündür. Örneğin, bir çevrimiçi mağazanın veritabanında, Müşteriler adlı bir tablo muhtemelen şirketin müşterileri hakkında genel bilgileri (adları ve iletişim bilgileri) içerecektir. Siparişler tablosu, verdikleri belirli siparişler (müşteri, mallar, ödeme detayları) hakkında bilgi depolar.
 
-## Q Sorgu İçin
+## Q: Sorgu İçin
 
 SQL, çok sayıda veri işleme özelliğine sahip bir programlama dilidir. Bildirimseldir, yani SQL'de yazılmış bir ifade, sisteme ne yapılması veya nasıl değerlendirilmesi gerektiğini söyleyen ancak nasıl yapılacağını belirtmeyen bir sorgudur.
 
@@ -42,7 +42,7 @@ Tablodaki tüm satırları seçmek için sembol ```*``` kullanılır. Ayrıca, h
 
 *Ancak daha görünür olmaları için genellikle tamamı büyük harflerle yazılırlar.*
 
-## L Dil İçin
+## L: Dil İçin
 
 Yukarıdaki örnekteki basit sorguyu "nüfus sayımından her şeyi seç" şeklinde okuyabilirsiniz. SQL, doğal bir dile mümkün olduğunca benzer olacak şekilde tasarlanmıştır. Bildirimsel doğası, işlemin karmaşıklıklarını gizlemeye yardımcı olur ve kullanıcının nispeten basit bir şekilde neyin gerekli olduğunu tanımlamasını sağlar. Sistem daha sonra sorguyu analiz eder, kontrol akışını seçer ve yürütür.
 
