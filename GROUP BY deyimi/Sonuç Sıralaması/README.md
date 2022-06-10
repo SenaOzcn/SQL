@@ -114,5 +114,7 @@ ORDER BY
 ORDER BY yan tümcesi, SELECT ifadesinden döndürülen satırları belirtilen ifadelere göre artan veya azalan düzende sıralamanıza olanak tanır.
 
 ORDER BY yan tümce kalıbı aşağıdaki gibidir: 
+
 ORDER BY expr1 [ASC, DESC], ..., exprN [ASC, DESC]; 
+
 ORDER BY anahtar sözcüğü, isteğe bağlı ASC veya DESC anahtar sözcükle ifadelerin listesi (veya bir sorgunun SELECT bölümündeki karşılık gelen takma adlar veya sayılar) .
